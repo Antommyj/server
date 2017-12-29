@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 node_modules
 keys.json
 keys-dev.js
 .idea
 package-lock.json
-=======
+
 # Node build artifacts
 node_modules
 npm-debug.log
@@ -17,4 +17,4 @@ npm-debug.log
 # Docker
 Dockerfile
 docker-compose.yml
->>>>>>> 787a0397af4e2a295607cced85aa882931c18d3d
+
